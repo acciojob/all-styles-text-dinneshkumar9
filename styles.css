@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+.container > div {
+ width: 200px;
+  border-left: 5px solid green;
+  padding: 10px;
+  
+} 
+.container{
+   color: white;
+   background-color: purple;
+   font-size: 20px;
+   text-decoration: underline;
+   text-decoration-color: white;
+   text-decoration-line: underline;
+}
