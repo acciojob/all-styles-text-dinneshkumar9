@@ -1,13 +1,13 @@
 
 /* Your CSS Code here. */
-/*already done*/
-div {
+
+.main {
  width: 200px;
   border-left: 5px solid green;
   padding: 10px;
   
 } 
-div{
+#heading{
    color: white;
    background-color: purple;
    font-size: 20px;
